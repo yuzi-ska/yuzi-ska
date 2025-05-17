@@ -3,12 +3,6 @@
 
 ​                                                               [🍟博客](https://web.yuzia.fun) | [⭐收藏页](https://page.yuzia.fun) | [📧邮箱](mailto:yuzi@skana.cn) 
 
-## # Contribution
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuzi-ska&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 ## # Information
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzi-ska)](https://github.com/anuraghazra/github-readme-stats)       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzi-ska)](https://github.com/anuraghazra/github-readme-stats)
