@@ -1,4 +1,4 @@
-​                                                               [🍟博客](https://web.yuzia.fun) | [⭐收藏页](https://page.yuzia.fun) | [📧邮箱](mailto:yuzi@skana.cn) 
+​                                                               [🍟博客](https://www.yuzia.cc) | [⭐收藏页](https://page.yuzia.cc) | [📧邮箱](mailto:yuzi@skana.cn) 
 
 ## # Information
 
